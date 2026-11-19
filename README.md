@@ -1,6 +1,27 @@
 # Diseño de Bases de Datos
 
-Prácticas resueltas y un parcial de SQL de Diseño de Bases de Datos (cursada 2025).
+Teorías, prácticas resueltas, un parcial de SQL y finales anteriores de Diseño de Bases de Datos (cursada 2025).
+
+## [Teorías](2025/Teorías/)
+
+Diapositivas de la cátedra en PDF, convertidas de las presentaciones originales sin el audio narrado. La cátedra recomienda seguirlas en orden numérico ([instructivo](2025/Teorías/INSTRUCTIVO.pdf)).
+
+| Clase | Tema |
+| --- | --- |
+| [1_1](2025/Teorías/1_1%20presentacion.pdf) | Presentación de la materia y conceptos básicos: base de datos, DBMS, DDL y DML |
+| [2_1](2025/Teorías/2_1%20Conceptual%20primera%20parte.pdf) | Modelo conceptual: entidades, relaciones, atributos y cardinalidad |
+| [2_2](2025/Teorías/clase2_2.pdf) | Modelo conceptual: atributos compuestos, identificadores, jerarquías y derivados |
+| [3_1](2025/Teorías/3_1%20conceptual%20segunda%20parte.pdf) | Revisión del modelo conceptual y modelo lógico |
+| [4_1](2025/Teorías/4_1%20móndelofisicorelacional.pdf) | Modelo físico relacional: claves, conversión de relaciones e integridad referencial |
+| [4_2](2025/Teorías/4_2%20Normalizacion.pdf) | Dependencias funcionales y formas normales |
+| [5_1](2025/Teorías/5_1%20A%20R.pdf) | Álgebra relacional |
+| [6_1](2025/Teorías/6_1%20SQL%20parte%201.pdf) | SQL: DDL, consultas, agregación, subconsultas y joins |
+| [6_2](2025/Teorías/6_2%20SQL%20parte%202.pdf) | SQL: ejercicios resueltos |
+| [7](2025/Teorías/7%20Optimizacion.pdf) | Optimización de consultas |
+| [8_1](2025/Teorías/8_1%20transacciones%20primera%20parte.pdf) | Transacciones: propiedades ACID, estados, bitácora y doble paginación |
+| [8_2](2025/Teorías/8%20_2%20transacciones%20segunda%20parte.pdf) | Transacciones concurrentes: seriabilidad, bloqueos y hora de entrada |
+
+[CaSER 2.0.zip](2025/Teorías/CaSER%202.0.zip) es la herramienta de la cátedra para dibujar modelos conceptuales. Los ejemplos de CaSER (`.csr`) y los videos de los ejemplos de teoría no están en el repo; están en la [carpeta de Drive de la cátedra](https://drive.google.com/drive/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj).
 
 ## [Prácticas](2025/Práctica/)
 
@@ -18,3 +39,7 @@ Prácticas resueltas y un parcial de SQL de Diseño de Bases de Datos (cursada 2
 ## [Parciales](2025/Parciales/)
 
 - [SQL, 11/11/2025](2025/Parciales/%5BSQL%5D%2011-11-2025/): [consignas](2025/Parciales/%5BSQL%5D%2011-11-2025/Consignas.txt) y una consulta por punto ([1.sql](2025/Parciales/%5BSQL%5D%2011-11-2025/1.sql) a [5.sql](2025/Parciales/%5BSQL%5D%2011-11-2025/5.sql)), sobre clientes, pedidos e ítems.
+
+## [Finales](2025/Finales/)
+
+[Todos los finales.pdf](2025/Finales/Todos%20los%20finales.pdf) reúne fotos de finales tomados entre 2017 y 2025. La mayoría son de multiple choice (10 preguntas: +1 la correcta, −0,5 la incorrecta) y dos mesas de 2024 fueron de preguntas para desarrollar. Algunas fotos tienen respuestas marcadas: unas son correcciones de la cátedra y otras, respuestas de alumnos, así que no conviene tomarlas como solución. La última página incluye un final de otra materia.
